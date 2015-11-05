@@ -1,0 +1,28 @@
+Base Construction Notes:
+The car as shown in the video is 30.5 inches wide, and it's front to back members are 17.0 inches long. 
+Most of the frame uses 1x3 stock. 
+But the motors, and the inner barrier (that run that separates the batteries from the electronics on the underside) is made from 1x2 stock.  
+These dimensions are not critical, but once you pick a length, then you'll want to get all the similar pieces to be as close to that length as possible.    
+BTW: You can cut this aluminum with circular saw (using a blade that can be had from Home Depot/ Lows).
+And by using the various brackets, they make for this material, the finished frame will be quite rigid. 
+However, on the down side, buying all these special bolts & brackets can get pretty pricey.  
+
+Partial Bill of Materials:
+(Not complete, but this covers most of the key components)
+1602 LCD & Keypad 
+Leonardo R3 Pro ATmega32U4 Board
+SX7970 68A Motor H-Bridge Module x 2
+GY-521/MPU-6050 3 Axis Accelerometer & Gyroscope Module
+DC 6.5-40V To 5V 2A DC-DC Converter Module & Voltmeter
+Mega 2560 ATmega2560-16AU Board (Arduino-compatible)
+Mager SSR DC-DC 40A solid state relay
+18650 4.2V Rechargeable Lithium Battery x 36
+iMAX B6-AC Balance Battery Charger
+24V 350W Electric Motor W/ Gear Reduction x 2
+12.5 x 3.0 eZip  Rear Wheel Assembly x 2
+Drive Chain 132 link #25 x 2
+24T Sprocket for 25 Chain 25BS24 x 3/8 x 2
+8020-4080 5 Hole "T" Joining Plate x 4
+8020 Corner Bracket 10 S 4016 N x 8
+8020 T Slot Aluminum Extrusion 10 S 1030 x 72"
+8020-4113  4 Hole Inside Corner Bracket x 8    
